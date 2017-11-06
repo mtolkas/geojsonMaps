@@ -17,7 +17,7 @@
         ]
       }
     },
-    "type": "FeatureCollection",
+    {"type": "FeatureCollection",
     "features": [
     {
         "type": "Feature",
@@ -94,7 +94,7 @@
                 ]
             ]
         }
-    }]    
+    }]    },
     {
       "type": "Feature",
       "properties": {

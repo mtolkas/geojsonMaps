@@ -8,7 +8,8 @@
        "coordinates":  [ 22.0689,40.6294 ]
     },
     "properties": {
-    "FIELD1":"Naoussa"
+    "City":"Naoussa",
+    "City Url":""
     }
   },
   {
@@ -18,7 +19,8 @@
        "coordinates":  [ 22.9444,40.6401 ]
     },
     "properties": {
-    "FIELD1":"Thessaloniki"
+    "City":"Thessaloniki",
+    "City Url":""
     }
   },
   {
@@ -28,7 +30,8 @@
        "coordinates":  [ 23.7275,37.9838 ]
     },
     "properties": {
-    "FIELD1":"Athens"
+    "City":"Athens",
+    "City Url":""
     }
   },
   {
@@ -38,7 +41,8 @@
        "coordinates":  [ 24.018,35.5138 ]
     },
     "properties": {
-    "FIELD1":"Chania"
+    "City":"Chania",
+    "City Url":""
     }
   },
   {
@@ -48,7 +52,8 @@
        "coordinates":  [ 25.4615,36.3932 ]
     },
     "properties": {
-    "FIELD1":"Santorini"
+    "City":"Santorini",
+    "City Url":""
     }
   },
   {
@@ -58,7 +63,8 @@
        "coordinates":  [ 26.131,38.3682 ]
     },
     "properties": {
-    "FIELD1":"Chios"
+    "City":"Chios",
+    "City Url":""
     }
   },
   {
@@ -68,7 +74,8 @@
        "coordinates":  [ 23.1322,37.2626 ]
     },
     "properties": {
-    "FIELD1":"Spetses"
+    "City":"Spetses",
+    "City Url":""
     }
   }
 ]

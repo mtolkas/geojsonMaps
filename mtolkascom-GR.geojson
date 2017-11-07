@@ -1,0 +1,75 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.0689,40.6294 ]
+    },
+    "properties": {
+    "FIELD1":"Naoussa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.9444,40.6401 ]
+    },
+    "properties": {
+    "FIELD1":"Thessaloniki"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.7275,37.9838 ]
+    },
+    "properties": {
+    "FIELD1":"Athens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.018,35.5138 ]
+    },
+    "properties": {
+    "FIELD1":"Chania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.4615,36.3932 ]
+    },
+    "properties": {
+    "FIELD1":"Santorini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.131,38.3682 ]
+    },
+    "properties": {
+    "FIELD1":"Chios"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.1322,37.2626 ]
+    },
+    "properties": {
+    "FIELD1":"Spetses"
+    }
+  }
+]
+}

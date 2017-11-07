@@ -1,53 +1,874 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "popup-text": "What is this yoooo? <a href='https://mtolkas.com/chios-spetses-and-izmir/'>eeee</a> "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.0689,
-          40.6294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "popup-text": "lake major?"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.9444,
-          40.6401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "popup-text": "lake major?"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.7275,
-          37.9838
-        ]
-      }
-    }
-  ]
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -77.0469,38.8048 ]
+   },
+   "properties": {
+   "City":"Alexandria",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 8.3193,40.558 ]
+   },
+   "properties": {
+   "City":"Alghero",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.8952,52.3702 ]
+   },
+   "properties": {
+   "City":"Amsterdam",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 23.7275,37.9838 ]
+   },
+   "properties": {
+   "City":"Athens",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 2.1734,41.3851 ]
+   },
+   "properties": {
+   "City":"Barcelona",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -5.9301,54.5973 ]
+   },
+   "properties": {
+   "City":"Belfast",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 13.405,52.52 ]
+   },
+   "properties": {
+   "City":"Berlin",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 7.4474,46.948 ]
+   },
+   "properties": {
+   "City":"Bern",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 11.3426,44.4949 ]
+   },
+   "properties": {
+   "City":"Bologna",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.84,47.026 ]
+   },
+   "properties": {
+   "City":"Bonne",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -71.0589,42.3601 ]
+   },
+   "properties": {
+   "City":"Boston",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.351721,50.850346 ]
+   },
+   "properties": {
+   "City":"Brussels",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 19.0402,47.4979 ]
+   },
+   "properties": {
+   "City":"Budapest",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -0.1218,52.2053 ]
+   },
+   "properties": {
+   "City":"Cambridge",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 9.4617,41.2069 ]
+   },
+   "properties": {
+   "City":"Caprera - Sardinia",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 24.018,35.5138 ]
+   },
+   "properties": {
+   "City":"Chania",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 98.9817,18.7061 ]
+   },
+   "properties": {
+   "City":"Chian Mai",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 26.131,38.3682 ]
+   },
+   "properties": {
+   "City":"Chios",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 12.5683,55.6761 ]
+   },
+   "properties": {
+   "City":"Copenhagen",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 5.0415,47.322 ]
+   },
+   "properties": {
+   "City":"Dijon",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -6.2603,53.3498 ]
+   },
+   "properties": {
+   "City":"Dublin",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -3.1883,55.9533 ]
+   },
+   "properties": {
+   "City":"Edinburgh",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 11.2558,43.7696 ]
+   },
+   "properties": {
+   "City":"Florence",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 6.1432,46.2044 ]
+   },
+   "properties": {
+   "City":"Geneva",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -6.5116,55.2408 ]
+   },
+   "properties": {
+   "City":"Giants Causeway",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 6.0649,53.0038 ]
+   },
+   "properties": {
+   "City":"Gorredijk",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 9.9937,53.5511 ]
+   },
+   "properties": {
+   "City":"Hamburg",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.3666,23.1136 ]
+   },
+   "properties": {
+   "City":"Havana",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 24.9384,60.1699 ]
+   },
+   "properties": {
+   "City":"Helsinki",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 114.1095,22.3964 ]
+   },
+   "properties": {
+   "City":"Hong Kong",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 27.1428,38.4237 ]
+   },
+   "properties": {
+   "City":"Izmir",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 12.872,50.2319 ]
+   },
+   "properties": {
+   "City":"Karlovy Vary",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 9.4047,41.2166 ]
+   },
+   "properties": {
+   "City":"La Maddalena - Sardinia",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 33.6232,34.9003 ]
+   },
+   "properties": {
+   "City":"Larnaca",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.497,52.1601 ]
+   },
+   "properties": {
+   "City":"Leiden",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 33.0226,34.7071 ]
+   },
+   "properties": {
+   "City":"Limasol",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -9.1393,38.7223 ]
+   },
+   "properties": {
+   "City":"Lisbon",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -0.1278,51.5074 ]
+   },
+   "properties": {
+   "City":"London",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -118.2437,34.0522 ]
+   },
+   "properties": {
+   "City":"Los Angeles",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 6.1319,49.6116 ]
+   },
+   "properties": {
+   "City":"Luxembourg",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.8357,45.764 ]
+   },
+   "properties": {
+   "City":"Lyon",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 35.12926,-1.474939 ]
+   },
+   "properties": {
+   "City":"Maasai Mara",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 5.690973,51.15 ]
+   },
+   "properties": {
+   "City":"Maastricht",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 36.8219,1.2921 ]
+   },
+   "properties": {
+   "City":"Nairobi",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 22.0689,40.6294 ]
+   },
+   "properties": {
+   "City":"Naoussa",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -74.0059,40.7128 ]
+   },
+   "properties": {
+   "City":"New York",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 33.3823,35.1856 ]
+   },
+   "properties": {
+   "City":"Nicosia",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 5.8372,51.8126 ]
+   },
+   "properties": {
+   "City":"Nijmegen",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 10.7522,59.9139 ]
+   },
+   "properties": {
+   "City":"Oslo",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 2.3522,48.8566 ]
+   },
+   "properties": {
+   "City":"Paris",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -122.6765,45.5231 ]
+   },
+   "properties": {
+   "City":"Portland",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -8.6291,41.1579 ]
+   },
+   "properties": {
+   "City":"Porto",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 14.4378,50.0755 ]
+   },
+   "properties": {
+   "City":"Prague",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 24.1052,56.9496 ]
+   },
+   "properties": {
+   "City":"Riga",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 12.4964,41.9028 ]
+   },
+   "properties": {
+   "City":"Rome",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -122.4194,37.7749 ]
+   },
+   "properties": {
+   "City":"San Francisco",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 25.4615,36.3932 ]
+   },
+   "properties": {
+   "City":"Santorini",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 18.4131,43.8563 ]
+   },
+   "properties": {
+   "City":"Sarajevo",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -122.3321,47.6062 ]
+   },
+   "properties": {
+   "City":"Seattle",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 11.3308,43.3188 ]
+   },
+   "properties": {
+   "City":"Siena",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 23.3219,42.6977 ]
+   },
+   "properties": {
+   "City":"Sofia",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 23.1322,37.2626 ]
+   },
+   "properties": {
+   "City":"Spetses",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 18.0686,59.3293 ]
+   },
+   "properties": {
+   "City":"Stockholm",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 24.7536,59.437 ]
+   },
+   "properties": {
+   "City":"Tallinn",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 23.761,61.4978 ]
+   },
+   "properties": {
+   "City":"Tampere",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.3007,52.0705 ]
+   },
+   "properties": {
+   "City":"The Hague",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 22.9444,40.6401 ]
+   },
+   "properties": {
+   "City":"Thessaloniki",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -79.9808,21.796 ]
+   },
+   "properties": {
+   "City":"Trinidad",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 22.9151,61.3444 ]
+   },
+   "properties": {
+   "City":"Vammala",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.1207,49.2827 ]
+   },
+   "properties": {
+   "City":"Vancouver",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 12.3155,45.4408 ]
+   },
+   "properties": {
+   "City":"Venice",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -2.3727,42.5154 ]
+   },
+   "properties": {
+   "City":"Viana",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 16.3738,48.2082 ]
+   },
+   "properties": {
+   "City":"Vienna",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.7066,22.6188 ]
+   },
+   "properties": {
+   "City":"Viñales",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 21.0122,52.2297 ]
+   },
+   "properties": {
+   "City":"Warsaw",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -77.0369,38.9072 ]
+   },
+   "properties": {
+   "City":"Washington, D.C.",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.3991,50.7147 ]
+   },
+   "properties": {
+   "City":"Waterloo",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -97.1384,49.8951 ]
+   },
+   "properties": {
+   "City":"Winnpeg",
+   "City URL":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 8.5417,47.3769 ]
+   },
+   "properties": {
+   "City":"Zurich",
+   "City URL":""
+   }
+ }
+]
 }

@@ -2037,6 +2037,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    98.9820265,
+                    18.7759394,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Artisan Cafe",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-2c8c0a8c",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     98.9864087,
                     18.7871642,
                     0

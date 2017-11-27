@@ -9,7 +9,7 @@
    },
    "properties": {
    "City":"Alexandria",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -20,7 +20,7 @@
    },
    "properties": {
    "City":"Alghero",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -31,7 +31,7 @@
    },
    "properties": {
    "City":"Amsterdam",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -42,7 +42,7 @@
    },
    "properties": {
    "City":"Athens",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -53,7 +53,7 @@
    },
    "properties": {
    "City":"Barcelona",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -64,7 +64,7 @@
    },
    "properties": {
    "City":"Belfast",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -75,7 +75,7 @@
    },
    "properties": {
    "City":"Berlin",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -86,7 +86,7 @@
    },
    "properties": {
    "City":"Bern",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -97,7 +97,7 @@
    },
    "properties": {
    "City":"Bologna",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -108,7 +108,7 @@
    },
    "properties": {
    "City":"Bonne",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -119,7 +119,7 @@
    },
    "properties": {
    "City":"Boston",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -130,7 +130,7 @@
    },
    "properties": {
    "City":"Brussels",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -141,7 +141,7 @@
    },
    "properties": {
    "City":"Budapest",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -152,7 +152,7 @@
    },
    "properties": {
    "City":"Cambridge",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -163,7 +163,7 @@
    },
    "properties": {
    "City":"Caprera - Sardinia",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -174,7 +174,7 @@
    },
    "properties": {
    "City":"Chania",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -184,8 +184,8 @@
       "coordinates":  [ 98.9817,18.7061 ]
    },
    "properties": {
-   "City":"Chian Mai",
-   "City URL":""
+   "City":"Chiang Mai",
+   "PlaceInfo":"<a href=''>Chiang Main, Thailand</a><br>"
    }
  },
  {
@@ -196,7 +196,7 @@
    },
    "properties": {
    "City":"Chios",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -207,7 +207,7 @@
    },
    "properties": {
    "City":"Copenhagen",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -218,7 +218,7 @@
    },
    "properties": {
    "City":"Dijon",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -229,7 +229,7 @@
    },
    "properties": {
    "City":"Dublin",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -240,7 +240,7 @@
    },
    "properties": {
    "City":"Edinburgh",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -251,7 +251,7 @@
    },
    "properties": {
    "City":"Florence",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -262,7 +262,7 @@
    },
    "properties": {
    "City":"Geneva",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -273,7 +273,7 @@
    },
    "properties": {
    "City":"Giants Causeway",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -284,7 +284,7 @@
    },
    "properties": {
    "City":"Gorredijk",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -295,7 +295,7 @@
    },
    "properties": {
    "City":"Hamburg",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -306,7 +306,7 @@
    },
    "properties": {
    "City":"Havana",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -317,7 +317,7 @@
    },
    "properties": {
    "City":"Helsinki",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -328,7 +328,7 @@
    },
    "properties": {
    "City":"Hong Kong",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -339,7 +339,7 @@
    },
    "properties": {
    "City":"Izmir",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -350,7 +350,7 @@
    },
    "properties": {
    "City":"Karlovy Vary",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -361,7 +361,7 @@
    },
    "properties": {
    "City":"La Maddalena - Sardinia",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -372,7 +372,7 @@
    },
    "properties": {
    "City":"Larnaca",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -383,7 +383,7 @@
    },
    "properties": {
    "City":"Leiden",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -394,7 +394,7 @@
    },
    "properties": {
    "City":"Limasol",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -405,7 +405,7 @@
    },
    "properties": {
    "City":"Lisbon",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -416,7 +416,7 @@
    },
    "properties": {
    "City":"London",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -427,7 +427,7 @@
    },
    "properties": {
    "City":"Los Angeles",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -438,7 +438,7 @@
    },
    "properties": {
    "City":"Luxembourg",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -449,7 +449,7 @@
    },
    "properties": {
    "City":"Lyon",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -460,7 +460,7 @@
    },
    "properties": {
    "City":"Maasai Mara",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -471,7 +471,7 @@
    },
    "properties": {
    "City":"Maastricht",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -482,7 +482,7 @@
    },
    "properties": {
    "City":"Nairobi",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -493,7 +493,7 @@
    },
    "properties": {
    "City":"Naoussa",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -504,7 +504,7 @@
    },
    "properties": {
    "City":"New York",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -515,7 +515,7 @@
    },
    "properties": {
    "City":"Nicosia",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -526,7 +526,7 @@
    },
    "properties": {
    "City":"Nijmegen",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -537,7 +537,7 @@
    },
    "properties": {
    "City":"Oslo",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -548,7 +548,7 @@
    },
    "properties": {
    "City":"Paris",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -559,7 +559,7 @@
    },
    "properties": {
    "City":"Portland",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -570,7 +570,7 @@
    },
    "properties": {
    "City":"Porto",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -581,7 +581,7 @@
    },
    "properties": {
    "City":"Prague",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -592,7 +592,7 @@
    },
    "properties": {
    "City":"Riga",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -603,7 +603,7 @@
    },
    "properties": {
    "City":"Rome",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -614,7 +614,7 @@
    },
    "properties": {
    "City":"San Francisco",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -625,7 +625,7 @@
    },
    "properties": {
    "City":"Santorini",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -636,7 +636,7 @@
    },
    "properties": {
    "City":"Sarajevo",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -647,7 +647,7 @@
    },
    "properties": {
    "City":"Seattle",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -658,7 +658,7 @@
    },
    "properties": {
    "City":"Siena",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -669,7 +669,7 @@
    },
    "properties": {
    "City":"Sofia",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -680,7 +680,7 @@
    },
    "properties": {
    "City":"Spetses",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -691,7 +691,7 @@
    },
    "properties": {
    "City":"Stockholm",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -702,7 +702,7 @@
    },
    "properties": {
    "City":"Tallinn",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -713,7 +713,7 @@
    },
    "properties": {
    "City":"Tampere",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -724,7 +724,7 @@
    },
    "properties": {
    "City":"The Hague",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -735,7 +735,7 @@
    },
    "properties": {
    "City":"Thessaloniki",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -746,7 +746,7 @@
    },
    "properties": {
    "City":"Trinidad",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -757,7 +757,7 @@
    },
    "properties": {
    "City":"Vammala",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -768,7 +768,7 @@
    },
    "properties": {
    "City":"Vancouver",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -779,7 +779,7 @@
    },
    "properties": {
    "City":"Venice",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -790,7 +790,7 @@
    },
    "properties": {
    "City":"Viana",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -801,7 +801,7 @@
    },
    "properties": {
    "City":"Vienna",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -812,7 +812,7 @@
    },
    "properties": {
    "City":"Viñales",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -823,7 +823,7 @@
    },
    "properties": {
    "City":"Warsaw",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -834,7 +834,7 @@
    },
    "properties": {
    "City":"Washington, D.C.",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -845,7 +845,7 @@
    },
    "properties": {
    "City":"Waterloo",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -856,7 +856,7 @@
    },
    "properties": {
    "City":"Winnpeg",
-   "City URL":""
+   "PlaceInfo":""
    }
  },
  {
@@ -867,7 +867,7 @@
    },
    "properties": {
    "City":"Zurich",
-   "City URL":""
+   "PlaceInfo":""
    }
  }
 ]

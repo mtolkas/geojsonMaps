@@ -1,82 +1,159 @@
 {
-   "type": "FeatureCollection",
-   "features": [
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 22.0689,40.6294 ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0689,
+          40.6294
+        ]
+      },
+      "properties": {
+        "City": "Naoussa",
+        "PlaceInfo": "<b><a href='/naoussa/'>Naoussa</a></b>"
+      }
     },
-    "properties": {
-    "City":"Naoussa",
-    "City Url":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 22.9444,40.6401 ]
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "City": "Thessaloniki",
+        "City Url": ""
+      }
     },
-    "properties": {
-    "City":"Thessaloniki",
-    "City Url":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 23.7275,37.9838 ]
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7275,
+          37.9838
+        ]
+      },
+      "properties": {
+        "City": "Athens",
+        "City Url": ""
+      }
     },
-    "properties": {
-    "City":"Athens",
-    "City Url":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 24.018,35.5138 ]
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.018,
+          35.5138
+        ]
+      },
+      "properties": {
+        "City": "Chania",
+        "City Url": ""
+      }
     },
-    "properties": {
-    "City":"Chania",
-    "City Url":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 25.4615,36.3932 ]
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4615,
+          36.3932
+        ]
+      },
+      "properties": {
+        "City": "Santorini",
+        "City Url": ""
+      }
     },
-    "properties": {
-    "City":"Santorini",
-    "City Url":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 26.131,38.3682 ]
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.131,
+          38.3682
+        ]
+      },
+      "properties": {
+        "City": "Chios",
+        "City Url": ""
+      }
     },
-    "properties": {
-    "City":"Chios",
-    "City Url":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 23.1322,37.2626 ]
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1322,
+          37.2626
+        ]
+      },
+      "properties": {
+        "City": "Spetses",
+        "City Url": ""
+      }
     },
-    "properties": {
-    "City":"Spetses",
-    "City Url":""
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1652,
+          37.5773
+        ]
+      },
+      "properties": {
+        "City": "Tinos",
+        "PlaceInfo": "Tinos, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8016,
+          37.5673
+        ]
+      },
+      "properties": {
+        "City": "Nafplio",
+        "PlaceInfo": "Nafplio, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.056,
+          36.6876
+        ]
+      },
+      "properties": {
+        "City": "Monemvasia",
+        "PlaceInfo": "Monemvasia, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3758,
+          37.0688
+        ]
+      },
+      "properties": {
+        "City": "Mystras",
+        "PlaceInfo": "Mystras, <b><a href='/greece/'>Greece</a></b>"
+      }
     }
-  }
-]
+  ]
 }

@@ -1,874 +1,1167 @@
 {
   "type": "FeatureCollection",
   "features": [
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -77.0469,38.8048 ]
-   },
-   "properties": {
-   "City":"Alexandria, VA",
-   "PlaceInfo":"Alexandria, <b><a href='/usa/'>USA</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 8.3193,40.558 ]
-   },
-   "properties": {
-   "City":"Alghero",
-   "PlaceInfo":"Alghero, Italy (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 4.8952,52.3702 ]
-   },
-   "properties": {
-   "City":"Amsterdam",
-   "PlaceInfo":"Amsterdam, The Netherlands (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 23.7275,37.9838 ]
-   },
-   "properties": {
-   "City":"Athens",
-   "PlaceInfo":"Athens, <b><a href='/greece/'>Greece</a></b> (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 2.1734,41.3851 ]
-   },
-   "properties": {
-   "City":"Barcelona",
-   "PlaceInfo":"Barcelona, <b><a href='/spain/'>Spain</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -5.9301,54.5973 ]
-   },
-   "properties": {
-   "City":"Belfast",
-   "PlaceInfo":"Belfast, <b><a href='/unitedkingdom/'>Northern Ireland, United Kingdom</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 13.405,52.52 ]
-   },
-   "properties": {
-   "City":"Berlin",
-   "PlaceInfo":"Berlin, <b><a href='/germany/'>Germany</a></b> (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 7.4474,46.948 ]
-   },
-   "properties": {
-   "City":"Bern",
-   "PlaceInfo":"Bern, Switzerland (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 11.3426,44.4949 ]
-   },
-   "properties": {
-   "City":"Bologna",
-   "PlaceInfo":"Bologna, Italy (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 4.84,47.026 ]
-   },
-   "properties": {
-   "City":"Bonne",
-   "PlaceInfo":"Bonne, France (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -71.0589,42.3601 ]
-   },
-   "properties": {
-   "City":"Boston",
-   "PlaceInfo":"Boston, <b><a href='/usa/'>USA</a></b> (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 4.351721,50.850346 ]
-   },
-   "properties": {
-   "City":"Brussels",
-   "PlaceInfo":"Brussels, Belgium (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 19.0402,47.4979 ]
-   },
-   "properties": {
-   "City":"Budapest",
-   "PlaceInfo":"Budapest, Hungary (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -0.1218,52.2053 ]
-   },
-   "properties": {
-   "City":"Cambridge",
-   "PlaceInfo":"Cambridge, <b><a href='/unitedkingdom/'>England, United Kingdom</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 9.4617,41.2069 ]
-   },
-   "properties": {
-   "City":"Caprera - Sardinia",
-   "PlaceInfo":"Caprera, Sardinia, Italy (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 24.018,35.5138 ]
-   },
-   "properties": {
-   "City":"Chania",
-   "PlaceInfo":"Chania, <b><a href='/greece/'>Greece</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 98.9817,18.7061 ]
-   },
-   "properties": {
-   "City":"Chiang Mai",
-   "PlaceInfo":"Chiang Mai, <b><a href='/thailand/'>Thailand</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 26.131,38.3682 ]
-   },
-   "properties": {
-   "City":"Chios",
-   "PlaceInfo":"Chios, <b><a href='/greece/'>Greece</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 12.5683,55.6761 ]
-   },
-   "properties": {
-   "City":"Copenhagen",
-   "PlaceInfo":"Copenhagen, <b><a href='/cuba/'>Denmark</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 5.0415,47.322 ]
-   },
-   "properties": {
-   "City":"Dijon",
-   "PlaceInfo":"Dijon, France (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -6.2603,53.3498 ]
-   },
-   "properties": {
-   "City":"Dublin",
-   "PlaceInfo":"Dublin, Ireland (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -3.1883,55.9533 ]
-   },
-   "properties": {
-   "City":"Edinburgh",
-   "PlaceInfo":"Edinburgh, <b><a href='/unitedkingdom/'>Scotland, United Kingdom</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 11.2558,43.7696 ]
-   },
-   "properties": {
-   "City":"Florence",
-   "PlaceInfo":"Florence, Italy (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 6.1432,46.2044 ]
-   },
-   "properties": {
-   "City":"Geneva",
-   "PlaceInfo":"Geneva, Switzerland (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -6.5116,55.2408 ]
-   },
-   "properties": {
-   "City":"Giants Causeway",
-   "PlaceInfo":"Giant's Causeway, <b><a href='/unitedkingdom/'>Northern Ireland, United Kingdom</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 6.0649,53.0038 ]
-   },
-   "properties": {
-   "City":"Gorredijk",
-   "PlaceInfo":"Gorredijk, The Netherlands (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 9.9937,53.5511 ]
-   },
-   "properties": {
-   "City":"Hamburg",
-   "PlaceInfo":"Hamburg, <b><a href='/germany/'>Germany</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -82.3666,23.1136 ]
-   },
-   "properties": {
-   "City":"Havana",
-   "PlaceInfo":"Havana, <b><a href='/cuba/'>Cuba</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 24.9384,60.1699 ]
-   },
-   "properties": {
-   "City":"Helsinki",
-   "PlaceInfo":"Helsinki, Finland (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 114.1095,22.3964 ]
-   },
-   "properties": {
-   "City":"Hong Kong",
-   "PlaceInfo":"Hong Kong, <b><a href='/hongkong/'>Hong Kong</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 27.1428,38.4237 ]
-   },
-   "properties": {
-   "City":"Izmir",
-   "PlaceInfo":"Izmir, <b><a href='/turkey/'>Turkey</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 12.872,50.2319 ]
-   },
-   "properties": {
-   "City":"Karlovy Vary",
-   "PlaceInfo":"Karlovy Vary, Czechia"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 9.4047,41.2166 ]
-   },
-   "properties": {
-   "City":"La Maddalena - Sardinia",
-   "PlaceInfo":"La Maddalena, Sardinia, Italy (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 33.6232,34.9003 ]
-   },
-   "properties": {
-   "City":"Larnaca",
-   "PlaceInfo":"Larnaca, Cyprus (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 4.497,52.1601 ]
-   },
-   "properties": {
-   "City":"Leiden",
-   "PlaceInfo":"Leiden, The Netherlands (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 33.0226,34.7071 ]
-   },
-   "properties": {
-   "City":"Limasol",
-   "PlaceInfo":"Limasol, Cyprus (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -9.1393,38.7223 ]
-   },
-   "properties": {
-   "City":"Lisbon",
-   "PlaceInfo":"Lisbon, <b><a href='/portugal/'>Portugal</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -0.1278,51.5074 ]
-   },
-   "properties": {
-   "City":"London",
-   "PlaceInfo":"London, <b><a href='/unitedkingdom/'>England, United Kingdom</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -118.2437,34.0522 ]
-   },
-   "properties": {
-   "City":"Los Angeles",
-   "PlaceInfo":"Los Angeles, <b><a href='/usa/'>USA</a></b> (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 6.1319,49.6116 ]
-   },
-   "properties": {
-   "City":"Luxembourg",
-   "PlaceInfo":"Luxembourg, Luxembour (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 4.8357,45.764 ]
-   },
-   "properties": {
-   "City":"Lyon",
-   "PlaceInfo":"Lyon, <b><a href='/france/'>France</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 35.12926,-1.474939 ]
-   },
-   "properties": {
-   "City":"Maasai Mara",
-   "PlaceInfo":"Maasai Mara, Kenya (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 5.690973,51.15 ]
-   },
-   "properties": {
-   "City":"Maastricht",
-   "PlaceInfo":"Maastricht, The Netherlands (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 36.8219,1.2921 ]
-   },
-   "properties": {
-   "City":"Nairobi",
-   "PlaceInfo":"Nairobi, Kenya (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 22.0689,40.6294 ]
-   },
-   "properties": {
-   "City":"Naoussa",
-   "PlaceInfo":"Naoussa, <b><a href='/greece/'>Greece</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -74.0059,40.7128 ]
-   },
-   "properties": {
-   "City":"New York",
-   "PlaceInfo":"New York, <b><a href='/usa/'>USA</a></b> (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 33.3823,35.1856 ]
-   },
-   "properties": {
-   "City":"Nicosia",
-   "PlaceInfo":"Nicosia, Cyprus (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 5.8372,51.8126 ]
-   },
-   "properties": {
-   "City":"Nijmegen",
-   "PlaceInfo":"Nijmegen, The Netherlands (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 10.7522,59.9139 ]
-   },
-   "properties": {
-   "City":"Oslo",
-   "PlaceInfo":"Oslo, <b><a href='/norway/'>Norway</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 2.3522,48.8566 ]
-   },
-   "properties": {
-   "City":"Paris",
-   "PlaceInfo":"Paris, <b><a href='/france/'>France</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -122.6765,45.5231 ]
-   },
-   "properties": {
-   "City":"Portland",
-   "PlaceInfo":"Portland, <b><a href='/usa/'>USA</a></b> (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -8.6291,41.1579 ]
-   },
-   "properties": {
-   "City":"Porto",
-   "PlaceInfo":"Porto, <b><a href='/portugal/'>Portugal</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 14.4378,50.0755 ]
-   },
-   "properties": {
-   "City":"Prague",
-   "PlaceInfo":"Prague, Czechia"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 24.1052,56.9496 ]
-   },
-   "properties": {
-   "City":"Riga",
-   "PlaceInfo":"Riga, Latvia (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 12.4964,41.9028 ]
-   },
-   "properties": {
-   "City":"Rome",
-   "PlaceInfo":"Rome, Italy (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -122.4194,37.7749 ]
-   },
-   "properties": {
-   "City":"San Francisco",
-   "PlaceInfo":"San Francisco, <b><a href='/usa/'>USA</a></b> (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 25.4615,36.3932 ]
-   },
-   "properties": {
-   "City":"Santorini",
-   "PlaceInfo":"Santorini, <b><a href='/greece/'>Greece</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 18.4131,43.8563 ]
-   },
-   "properties": {
-   "City":"Sarajevo",
-   "PlaceInfo":"Sarajevo, Bosnia and Herzegovina (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -122.3321,47.6062 ]
-   },
-   "properties": {
-   "City":"Seattle",
-   "PlaceInfo":"Seattle, <b><a href='/usa/'>USA</a></b> (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 11.3308,43.3188 ]
-   },
-   "properties": {
-   "City":"Siena",
-   "PlaceInfo":"Siena, Italy (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 23.3219,42.6977 ]
-   },
-   "properties": {
-   "City":"Sofia",
-   "PlaceInfo":"Sofia, Bulgaria"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 23.1322,37.2626 ]
-   },
-   "properties": {
-   "City":"Spetses",
-   "PlaceInfo":"Spetses, <b><a href='/greece/'>Greece</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 18.0686,59.3293 ]
-   },
-   "properties": {
-   "City":"Stockholm",
-   "PlaceInfo":"Stockholm, Sweden (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 24.7536,59.437 ]
-   },
-   "properties": {
-   "City":"Tallinn",
-   "PlaceInfo":"Tallinn, Estonia"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 23.761,61.4978 ]
-   },
-   "properties": {
-   "City":"Tampere",
-   "PlaceInfo":"Tampere, Finland (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 4.3007,52.0705 ]
-   },
-   "properties": {
-   "City":"The Hague",
-   "PlaceInfo":"The Hague, The Netherlands (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 22.9444,40.6401 ]
-   },
-   "properties": {
-   "City":"Thessaloniki",
-   "PlaceInfo":"Thessaloniki, Greece (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -79.9808,21.796 ]
-   },
-   "properties": {
-   "City":"Trinidad",
-   "PlaceInfo":"Trinidad, <b><a href='/cuba/'>Cuba</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 22.9151,61.3444 ]
-   },
-   "properties": {
-   "City":"Vammala",
-   "PlaceInfo":"Vammala, Finland (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -123.1207,49.2827 ]
-   },
-   "properties": {
-   "City":"Vancouver",
-   "PlaceInfo":"Vancouver, <b><a href='/canada/'>Canada</a></b> (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 12.3155,45.4408 ]
-   },
-   "properties": {
-   "City":"Venice",
-   "PlaceInfo":"Venice, Italy (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -2.3727,42.5154 ]
-   },
-   "properties": {
-   "City":"Viana",
-   "PlaceInfo":"Viana, <b><a href='/spain/'>Spain</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 16.3738,48.2082 ]
-   },
-   "properties": {
-   "City":"Vienna",
-   "PlaceInfo":"Vienna, Austria (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -83.7066,22.6188 ]
-   },
-   "properties": {
-   "City":"Viñales",
-   "PlaceInfo":"Viñales, <b><a href='/cuba/'>Cuba</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 21.0122,52.2297 ]
-   },
-   "properties": {
-   "City":"Warsaw",
-   "PlaceInfo":"Warsaw, Poland (coming soon)"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -77.0369,38.9072 ]
-   },
-   "properties": {
-   "City":"Washington, D.C.",
-   "PlaceInfo":"Washington, D.C., <b><a href='/usa/'>USA</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 4.3991,50.7147 ]
-   },
-   "properties": {
-   "City":"Waterloo",
-   "PlaceInfo":"Waterloo, Belgium"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -97.1384,49.8951 ]
-   },
-   "properties": {
-   "City":"Winnipeg",
-   "PlaceInfo":"Winnipeg, <b><a href='/canada/'>Canada</a></b>"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 8.5417,47.3769 ]
-   },
-   "properties": {
-   "City":"Zurich",
-   "PlaceInfo":"Zurich, Switzerland (coming soon)"
-   }
- }
-]
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0469,
+          38.8048
+        ]
+      },
+      "properties": {
+        "City": "Alexandria, VA",
+        "PlaceInfo": "Alexandria, <b><a href='/usa/'>USA</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3193,
+          40.558
+        ]
+      },
+      "properties": {
+        "City": "Alghero",
+        "PlaceInfo": "Alghero, Italy (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8952,
+          52.3702
+        ]
+      },
+      "properties": {
+        "City": "Amsterdam",
+        "PlaceInfo": "Amsterdam, The Netherlands (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7275,
+          37.9838
+        ]
+      },
+      "properties": {
+        "City": "Athens",
+        "PlaceInfo": "Athens, <b><a href='/greece/'>Greece</a></b> (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1734,
+          41.3851
+        ]
+      },
+      "properties": {
+        "City": "Barcelona",
+        "PlaceInfo": "Barcelona, <b><a href='/spain/'>Spain</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9301,
+          54.5973
+        ]
+      },
+      "properties": {
+        "City": "Belfast",
+        "PlaceInfo": "Belfast, <b><a href='/unitedkingdom/'>Northern Ireland, United Kingdom</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "City": "Berlin",
+        "PlaceInfo": "Berlin, <b><a href='/germany/'>Germany</a></b> (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4474,
+          46.948
+        ]
+      },
+      "properties": {
+        "City": "Bern",
+        "PlaceInfo": "Bern, Switzerland (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3426,
+          44.4949
+        ]
+      },
+      "properties": {
+        "City": "Bologna",
+        "PlaceInfo": "Bologna, Italy (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84,
+          47.026
+        ]
+      },
+      "properties": {
+        "City": "Bonne",
+        "PlaceInfo": "Bonne, France (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0589,
+          42.3601
+        ]
+      },
+      "properties": {
+        "City": "Boston",
+        "PlaceInfo": "Boston, <b><a href='/usa/'>USA</a></b> (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.351721,
+          50.850346
+        ]
+      },
+      "properties": {
+        "City": "Brussels",
+        "PlaceInfo": "Brussels, Belgium (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "City": "Budapest",
+        "PlaceInfo": "Budapest, Hungary (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1218,
+          52.2053
+        ]
+      },
+      "properties": {
+        "City": "Cambridge",
+        "PlaceInfo": "Cambridge, <b><a href='/unitedkingdom/'>England, United Kingdom</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4617,
+          41.2069
+        ]
+      },
+      "properties": {
+        "City": "Caprera - Sardinia",
+        "PlaceInfo": "Caprera, Sardinia, Italy (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.018,
+          35.5138
+        ]
+      },
+      "properties": {
+        "City": "Chania",
+        "PlaceInfo": "Chania, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9817,
+          18.7061
+        ]
+      },
+      "properties": {
+        "City": "Chiang Mai",
+        "PlaceInfo": "Chiang Mai, <b><a href='/thailand/'>Thailand</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.131,
+          38.3682
+        ]
+      },
+      "properties": {
+        "City": "Chios",
+        "PlaceInfo": "Chios, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "City": "Copenhagen",
+        "PlaceInfo": "Copenhagen, <b><a href='/cuba/'>Denmark</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0415,
+          47.322
+        ]
+      },
+      "properties": {
+        "City": "Dijon",
+        "PlaceInfo": "Dijon, France (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2603,
+          53.3498
+        ]
+      },
+      "properties": {
+        "City": "Dublin",
+        "PlaceInfo": "Dublin, Ireland (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1883,
+          55.9533
+        ]
+      },
+      "properties": {
+        "City": "Edinburgh",
+        "PlaceInfo": "Edinburgh, <b><a href='/unitedkingdom/'>Scotland, United Kingdom</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2558,
+          43.7696
+        ]
+      },
+      "properties": {
+        "City": "Florence",
+        "PlaceInfo": "Florence, Italy (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1432,
+          46.2044
+        ]
+      },
+      "properties": {
+        "City": "Geneva",
+        "PlaceInfo": "Geneva, Switzerland (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5116,
+          55.2408
+        ]
+      },
+      "properties": {
+        "City": "Giants Causeway",
+        "PlaceInfo": "Giant's Causeway, <b><a href='/unitedkingdom/'>Northern Ireland, United Kingdom</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0649,
+          53.0038
+        ]
+      },
+      "properties": {
+        "City": "Gorredijk",
+        "PlaceInfo": "Gorredijk, The Netherlands (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9937,
+          53.5511
+        ]
+      },
+      "properties": {
+        "City": "Hamburg",
+        "PlaceInfo": "Hamburg, <b><a href='/germany/'>Germany</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3666,
+          23.1136
+        ]
+      },
+      "properties": {
+        "City": "Havana",
+        "PlaceInfo": "Havana, <b><a href='/cuba/'>Cuba</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9384,
+          60.1699
+        ]
+      },
+      "properties": {
+        "City": "Helsinki",
+        "PlaceInfo": "Helsinki, Finland (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1095,
+          22.3964
+        ]
+      },
+      "properties": {
+        "City": "Hong Kong",
+        "PlaceInfo": "Hong Kong, <b><a href='/hongkong/'>Hong Kong</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1428,
+          38.4237
+        ]
+      },
+      "properties": {
+        "City": "Izmir",
+        "PlaceInfo": "Izmir, <b><a href='/turkey/'>Turkey</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.872,
+          50.2319
+        ]
+      },
+      "properties": {
+        "City": "Karlovy Vary",
+        "PlaceInfo": "Karlovy Vary, Czechia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4047,
+          41.2166
+        ]
+      },
+      "properties": {
+        "City": "La Maddalena - Sardinia",
+        "PlaceInfo": "La Maddalena, Sardinia, Italy (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6232,
+          34.9003
+        ]
+      },
+      "properties": {
+        "City": "Larnaca",
+        "PlaceInfo": "Larnaca, Cyprus (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.497,
+          52.1601
+        ]
+      },
+      "properties": {
+        "City": "Leiden",
+        "PlaceInfo": "Leiden, The Netherlands (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0226,
+          34.7071
+        ]
+      },
+      "properties": {
+        "City": "Limasol",
+        "PlaceInfo": "Limasol, Cyprus (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1393,
+          38.7223
+        ]
+      },
+      "properties": {
+        "City": "Lisbon",
+        "PlaceInfo": "Lisbon, <b><a href='/portugal/'>Portugal</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "City": "London",
+        "PlaceInfo": "London, <b><a href='/unitedkingdom/'>England, United Kingdom</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      },
+      "properties": {
+        "City": "Los Angeles",
+        "PlaceInfo": "Los Angeles, <b><a href='/usa/'>USA</a></b> (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1319,
+          49.6116
+        ]
+      },
+      "properties": {
+        "City": "Luxembourg",
+        "PlaceInfo": "Luxembourg, Luxembour (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8357,
+          45.764
+        ]
+      },
+      "properties": {
+        "City": "Lyon",
+        "PlaceInfo": "Lyon, <b><a href='/france/'>France</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12926,
+          -1.474939
+        ]
+      },
+      "properties": {
+        "City": "Maasai Mara",
+        "PlaceInfo": "Maasai Mara, Kenya (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.690973,
+          51.15
+        ]
+      },
+      "properties": {
+        "City": "Maastricht",
+        "PlaceInfo": "Maastricht, The Netherlands (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8219,
+          1.2921
+        ]
+      },
+      "properties": {
+        "City": "Nairobi",
+        "PlaceInfo": "Nairobi, Kenya (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0689,
+          40.6294
+        ]
+      },
+      "properties": {
+        "City": "Naoussa",
+        "PlaceInfo": "Naoussa, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059,
+          40.7128
+        ]
+      },
+      "properties": {
+        "City": "New York",
+        "PlaceInfo": "New York, <b><a href='/usa/'>USA</a></b> (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3823,
+          35.1856
+        ]
+      },
+      "properties": {
+        "City": "Nicosia",
+        "PlaceInfo": "Nicosia, Cyprus (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8372,
+          51.8126
+        ]
+      },
+      "properties": {
+        "City": "Nijmegen",
+        "PlaceInfo": "Nijmegen, The Netherlands (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "City": "Oslo",
+        "PlaceInfo": "Oslo, <b><a href='/norway/'>Norway</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "City": "Paris",
+        "PlaceInfo": "Paris, <b><a href='/france/'>France</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6765,
+          45.5231
+        ]
+      },
+      "properties": {
+        "City": "Portland",
+        "PlaceInfo": "Portland, <b><a href='/usa/'>USA</a></b> (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6291,
+          41.1579
+        ]
+      },
+      "properties": {
+        "City": "Porto",
+        "PlaceInfo": "Porto, <b><a href='/portugal/'>Portugal</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "City": "Prague",
+        "PlaceInfo": "Prague, Czechia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "City": "Riga",
+        "PlaceInfo": "Riga, Latvia (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "City": "Rome",
+        "PlaceInfo": "Rome, Italy (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "City": "San Francisco",
+        "PlaceInfo": "San Francisco, <b><a href='/usa/'>USA</a></b> (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4615,
+          36.3932
+        ]
+      },
+      "properties": {
+        "City": "Santorini",
+        "PlaceInfo": "Santorini, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1652,
+          37.5773
+        ]
+      },
+      "properties": {
+        "City": "Tinos",
+        "PlaceInfo": "Tinos, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8016,
+          37.5673
+        ]
+      },
+      "properties": {
+        "City": "Nafplio",
+        "PlaceInfo": "Nafplio, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.056,
+          36.6876
+        ]
+      },
+      "properties": {
+        "City": "Monemvasia",
+        "PlaceInfo": "Monemvasia, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3758,
+          37.0688
+        ]
+      },
+      "properties": {
+        "City": "Mystras",
+        "PlaceInfo": "Mystras, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4131,
+          43.8563
+        ]
+      },
+      "properties": {
+        "City": "Sarajevo",
+        "PlaceInfo": "Sarajevo, Bosnia and Herzegovina (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3321,
+          47.6062
+        ]
+      },
+      "properties": {
+        "City": "Seattle",
+        "PlaceInfo": "Seattle, <b><a href='/usa/'>USA</a></b> (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3308,
+          43.3188
+        ]
+      },
+      "properties": {
+        "City": "Siena",
+        "PlaceInfo": "Siena, Italy (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3219,
+          42.6977
+        ]
+      },
+      "properties": {
+        "City": "Sofia",
+        "PlaceInfo": "Sofia, Bulgaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1322,
+          37.2626
+        ]
+      },
+      "properties": {
+        "City": "Spetses",
+        "PlaceInfo": "Spetses, <b><a href='/greece/'>Greece</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      },
+      "properties": {
+        "City": "Stockholm",
+        "PlaceInfo": "Stockholm, Sweden (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7536,
+          59.437
+        ]
+      },
+      "properties": {
+        "City": "Tallinn",
+        "PlaceInfo": "Tallinn, Estonia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.761,
+          61.4978
+        ]
+      },
+      "properties": {
+        "City": "Tampere",
+        "PlaceInfo": "Tampere, Finland (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3007,
+          52.0705
+        ]
+      },
+      "properties": {
+        "City": "The Hague",
+        "PlaceInfo": "The Hague, The Netherlands (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "City": "Thessaloniki",
+        "PlaceInfo": "Thessaloniki, Greece (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9808,
+          21.796
+        ]
+      },
+      "properties": {
+        "City": "Trinidad",
+        "PlaceInfo": "Trinidad, <b><a href='/cuba/'>Cuba</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9151,
+          61.3444
+        ]
+      },
+      "properties": {
+        "City": "Vammala",
+        "PlaceInfo": "Vammala, Finland (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1207,
+          49.2827
+        ]
+      },
+      "properties": {
+        "City": "Vancouver",
+        "PlaceInfo": "Vancouver, <b><a href='/canada/'>Canada</a></b> (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3155,
+          45.4408
+        ]
+      },
+      "properties": {
+        "City": "Venice",
+        "PlaceInfo": "Venice, Italy (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3727,
+          42.5154
+        ]
+      },
+      "properties": {
+        "City": "Viana",
+        "PlaceInfo": "Viana, <b><a href='/spain/'>Spain</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "City": "Vienna",
+        "PlaceInfo": "Vienna, Austria (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7066,
+          22.6188
+        ]
+      },
+      "properties": {
+        "City": "Viñales",
+        "PlaceInfo": "Viñales, <b><a href='/cuba/'>Cuba</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "City": "Warsaw",
+        "PlaceInfo": "Warsaw, Poland (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "City": "Washington, D.C.",
+        "PlaceInfo": "Washington, D.C., <b><a href='/usa/'>USA</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3991,
+          50.7147
+        ]
+      },
+      "properties": {
+        "City": "Waterloo",
+        "PlaceInfo": "Waterloo, Belgium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1384,
+          49.8951
+        ]
+      },
+      "properties": {
+        "City": "Winnipeg",
+        "PlaceInfo": "Winnipeg, <b><a href='/canada/'>Canada</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5417,
+          47.3769
+        ]
+      },
+      "properties": {
+        "City": "Zurich",
+        "PlaceInfo": "Zurich, Switzerland (coming soon)"
+      }
+    }
+  ]
 }

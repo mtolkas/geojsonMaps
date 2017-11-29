@@ -628,7 +628,7 @@
       },
       "properties": {
         "City": "Naoussa",
-        "PlaceInfo": "<ul><li>Read my <b><a href='/naoussa-travel-guide/'>Naoussa travel guide</a>.</b></li><br /><li>See more in <b><a href='/greece/'>Greece</a></li></ul>"
+        "PlaceInfo": "<ul><li>Read my <b><a href='/naoussa-travel-guide/'>Naoussa travel guide</a>.</b></li><li>See more in <b><a href='/greece/'>Greece</a></li></ul>"
       }
     },
     {

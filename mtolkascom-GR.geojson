@@ -12,7 +12,7 @@
       },
       "properties": {
         "City": "Naoussa",
-        "PlaceInfo": "<b><a href='/naoussa/'>Naoussa</a></b>"
+        "PlaceInfo": "<b><a href='/naoussa/'>Naoussa</a></b><br /> AnotherNaousa <b><a href='/naoussa/'>Naoussa</a></b>"
       }
     },
     {
@@ -26,7 +26,7 @@
       },
       "properties": {
         "City": "Thessaloniki",
-        "City Url": ""
+        "PlaceInfo": ""
       }
     },
     {
@@ -40,7 +40,7 @@
       },
       "properties": {
         "City": "Athens",
-        "City Url": ""
+        "PlaceInfo": ""
       }
     },
     {
@@ -54,7 +54,7 @@
       },
       "properties": {
         "City": "Chania",
-        "City Url": ""
+        "PlaceInfo": ""
       }
     },
     {
@@ -68,7 +68,7 @@
       },
       "properties": {
         "City": "Santorini",
-        "City Url": ""
+        "PlaceInfo": ""
       }
     },
     {
@@ -82,7 +82,7 @@
       },
       "properties": {
         "City": "Chios",
-        "City Url": ""
+        "PlaceInfo": ""
       }
     },
     {
@@ -96,7 +96,7 @@
       },
       "properties": {
         "City": "Spetses",
-        "City Url": ""
+        "PlaceInfo": ""
       }
     },
     {

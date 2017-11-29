@@ -26,7 +26,7 @@
       },
       "properties": {
         "City": "Thessaloniki",
-        "PlaceInfo": ""
+        "PlaceInfo": "Thessaloniki (coming soon)"
       }
     },
     {
@@ -40,7 +40,7 @@
       },
       "properties": {
         "City": "Athens",
-        "PlaceInfo": ""
+        "PlaceInfo": "Athens (coming soon)"
       }
     },
     {
@@ -54,7 +54,7 @@
       },
       "properties": {
         "City": "Chania",
-        "PlaceInfo": ""
+        "PlaceInfo": "Chania (coming soon)"
       }
     },
     {
@@ -68,7 +68,7 @@
       },
       "properties": {
         "City": "Santorini",
-        "PlaceInfo": ""
+        "PlaceInfo": "Santorini (coming soon)"
       }
     },
     {
@@ -110,7 +110,7 @@
       },
       "properties": {
         "City": "Tinos",
-        "PlaceInfo": "Tinos, coming soon."
+        "PlaceInfo": "Tinos (coming soon)"
       }
     },
     {

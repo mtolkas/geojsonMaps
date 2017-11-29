@@ -81,8 +81,8 @@
         ]
       },
       "properties": {
-        "City": "Chios",
-        "PlaceInfo": ""
+        "City": "Chios", 
+        "PlaceInfo": "More in the post: <b><a href='/chios-spetses-and-izmir/'>Chios, Spetses and Izmir</a></b>"
       }
     },
     {
@@ -96,7 +96,7 @@
       },
       "properties": {
         "City": "Spetses",
-        "PlaceInfo": ""
+        "PlaceInfo": "More in the post: <b><a href='/chios-spetses-and-izmir/'>Chios, Spetses and Izmira></b>"
       }
     },
     {
@@ -110,7 +110,7 @@
       },
       "properties": {
         "City": "Tinos",
-        "PlaceInfo": "Tinos, <b><a href='/greece/'>Greece</a></b>"
+        "PlaceInfo": "Tinos, coming soon."
       }
     },
     {
@@ -124,7 +124,7 @@
       },
       "properties": {
         "City": "Nafplio",
-        "PlaceInfo": "Nafplio, <b><a href='/greece/'>Greece</a></b>"
+        "PlaceInfo": "More in the post: <b><a href='/east-peloponnese/'>East Peloponnese</a></b>"
       }
     },
     {
@@ -138,7 +138,7 @@
       },
       "properties": {
         "City": "Monemvasia",
-        "PlaceInfo": "Monemvasia, <b><a href='/greece/'>Greece</a></b>"
+        "PlaceInfo": "More in the post: <b><a href='/east-peloponnese/'>East Peloponnese</a></b>"
       }
     },
     {
@@ -152,7 +152,7 @@
       },
       "properties": {
         "City": "Mystras",
-        "PlaceInfo": "Mystras, <b><a href='/greece/'>Greece</a></b>"
+        "PlaceInfo": "More in the post: <b><a href='/east-peloponnese/'>East Peloponnese</a></b>"
       }
     }
   ]

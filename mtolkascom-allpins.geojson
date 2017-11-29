@@ -810,7 +810,7 @@
       },
       "properties": {
         "City": "Tinos",
-        "PlaceInfo": "Tinos, <b><a href='/greece/'>Greece</a></b>"
+        "PlaceInfo": "Post about Tinos is coming soon.<hr>In the meantime see more in <b><a href='/greece/'>Greece</a>"
       }
     },
     {
@@ -824,7 +824,7 @@
       },
       "properties": {
         "City": "Nafplio",
-        "PlaceInfo": "Nafplio, <b><a href='/greece/'>Greece</a></b>"
+        "PlaceInfo": "More in the post: <b><a href='/east-peloponnese/'>East Peloponnese</a></b>Post about Tinos is coming soon.<hr>See more in <b><a href='/greece/'>Greece</a>"
       }
     },
     {
@@ -838,7 +838,7 @@
       },
       "properties": {
         "City": "Monemvasia",
-        "PlaceInfo": "Monemvasia, <b><a href='/greece/'>Greece</a></b>"
+        "PlaceInfo": "More in the post: <b><a href='/east-peloponnese/'>East Peloponnese</a></b>Post about Tinos is coming soon.<hr>See more in <b><a href='/greece/'>Greece</a>"
       }
     },
     {
@@ -852,7 +852,7 @@
       },
       "properties": {
         "City": "Mystras",
-        "PlaceInfo": "Mystras, <b><a href='/greece/'>Greece</a></b>"
+        "PlaceInfo": "More in the post: <b><a href='/east-peloponnese/'>East Peloponnese</a></b>Post about Tinos is coming soon.<hr>See more in <b><a href='/greece/'>Greece</a>"
       }
     },
     {

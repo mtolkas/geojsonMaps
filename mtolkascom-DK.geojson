@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 	
+          55.6761,
+          12.5683
+        ]
+      },
+      "properties": {
+        "City": "Copenhagen",
+        "PlaceInfo": "Relevant post <b><a href='/november-in-oslo-and-copenhagen/'>November in Oslo and Copenhagen</a></b>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 	
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "City": "Havana",
+        "PlaceInfo": "Relevant post <b><a href='/12-days-in-cuba-part-1-havana/'>12 days in Cuba – Part 1 | Havana</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 	
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "City": "Trinidad",
+        "PlaceInfo": "Relevant post <b><a href='/12-days-in-cuba-part-2-cienfuegos-trinidad/'>12 days in Cuba – Part 2 | Cienfuegos & Trinidad</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 	
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "City": "Vinñales,
+        "PlaceInfo": "Relevant post <b><a href='/12-days-in-cuba-part-3-vinales-havana/'>12 days in Cuba – Part 3 | Viñales & Havana</a></b>"
+      }
+    }        
+  ]
+}

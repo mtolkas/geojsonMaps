@@ -12,7 +12,7 @@
       },
       "properties": {
         "City": "Paris",
-        "PlaceInfo": "Read my <b><a href='/naoussa-travel-guide/'>Naoussa travel guide</a></b>"
+        "PlaceInfo": "Paris (coming soon)"
       }
     },
     {
@@ -26,7 +26,7 @@
       },
       "properties": {
         "City": "Lyon",
-        "PlaceInfo": "Thessaloniki (coming soon)"
+        "PlaceInfo": "Related post <b><a href='/lyon/'>Lyon in photos</a></b>"
       }
     },
     {
@@ -39,8 +39,8 @@
         ]
       },
       "properties": {
-        "City": "Bonne",
-        "PlaceInfo": "Athens (coming soon)"
+        "City": "Beaune",
+        "PlaceInfo": "Beaune (coming soon)"
       }
     },
     {
@@ -54,7 +54,7 @@
       },
       "properties": {
         "City": "Dijon",
-        "PlaceInfo": "Chania (coming soon)"
+        "PlaceInfo": "Dijon (coming soon)"
       }
     }
   ]

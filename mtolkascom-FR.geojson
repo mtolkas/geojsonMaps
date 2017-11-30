@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0689,
+          40.6294
+        ]
+      },
+      "properties": {
+        "City": "Paris",
+        "PlaceInfo": "Read my <b><a href='/naoussa-travel-guide/'>Naoussa travel guide</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "City": "Lyon",
+        "PlaceInfo": "Thessaloniki (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7275,
+          37.9838
+        ]
+      },
+      "properties": {
+        "City": "Bonne",
+        "PlaceInfo": "Athens (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.018,
+          35.5138
+        ]
+      },
+      "properties": {
+        "City": "Dijon",
+        "PlaceInfo": "Chania (coming soon)"
+      }
+    }
+  ]
+}

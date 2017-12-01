@@ -1,0 +1,104 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0589,42.3601 ]
+    },
+    "properties": {
+    "City":"Boston",
+    "PlaceInfo":"Boston, <b><a href='/usa/'>USA</a></b> (coming soon)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059,40.7128 ]
+    },
+    "properties": {
+    "City":"New York",
+    "PlaceInfo":"New York, <b><a href='/usa/'>USA</a></b> (coming soon)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4194,37.7749 ]
+    },
+    "properties": {
+    "City":"San Francisco",
+    "PlaceInfo":"San Francisco, <b><a href='/usa/'>USA</a></b> (coming soon)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2437,34.0522 ]
+    },
+    "properties": {
+    "City":"Los Angeles",
+    "PlaceInfo":"Los Angeles, <b><a href='/usa/'>USA</a></b> (coming soon)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0369,38.9072 ]
+    },
+    "properties": {
+    "City":"Washington, D.C.",
+    "PlaceInfo":"Washington, D.C., <b><a href='/usa/'>USA</a></b>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0469,38.8048 ]
+    },
+    "properties": {
+    "City":"Alexandria, VA",
+    "PlaceInfo":"Alexandria, <b><a href='/usa/'>USA</a></b>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3321,47.6062 ]
+    },
+    "properties": {
+    "City":"Seattle",
+    "PlaceInfo":"Seattle, <b><a href='/usa/'>USA</a></b> (coming soon)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6765,45.5231 ]
+    },
+    "properties": {
+    "City":"Portland",
+    "PlaceInfo":"Portland, <b><a href='/usa/'>USA</a></b> (coming soon)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.68384,44.034153 ]
+    },
+    "properties": {
+    "City":"White Mountains (Deer Park)",
+    "PlaceInfo":"White Mountains (Deer Park), <b><a href='/usa/'>USA</a></b> (coming soon)"
+    }
+  }
+]
+}

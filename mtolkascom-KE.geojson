@@ -7,12 +7,12 @@
         "type": "Point",
         "coordinates": [ 	
           36.8219,
-          1.2921
+          -1.2921
         ]
       },
       "properties": {
         "City": "Nairobi",
-        "PlaceInfo": "Relevant post <b><a href='/10-days-in-kenya/'>10 Days in Kenya</a></b>"
+        "PlaceInfo": "Nairobi. Relevant post <b><a href='/10-days-in-kenya/'>10 Days in Kenya</a></b>"
       }
     },
     {
@@ -26,7 +26,7 @@
       },
       "properties": {
         "City": "Maasai Mara National Reserve",
-        "PlaceInfo": "Relevant post <b><a href='/10-days-in-kenya/'>10 Days in Kenya</a></b>"
+        "PlaceInfo": "Maasai Mara National Reserve. Relevant post <b><a href='/10-days-in-kenya/'>10 Days in Kenya</a></b>"
       }
     }        
   ]

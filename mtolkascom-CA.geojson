@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1207,
+          49.2827
+        ]
+      },
+      "properties": {
+        "City": "Vancouver",
+        "PlaceInfo": "Vancouver, <b><a href='/canada/'>Canada</a></b> (coming soon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1384,
+          49.8951
+        ]
+      },
+      "properties": {
+        "City": "Winnipeg",
+        "PlaceInfo": "Winnipeg. Relevant post <b><a href='/alexandria-va-washington-d-c-and-winnipeg-mb-october-2013/'>Alexandria VA, Washington D.C. and Winnipeg MB</a></b>"
+      }
+    }
+  ]
+}

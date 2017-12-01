@@ -1,0 +1,60 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.9301,54.5973 ]
+    },
+    "properties": {
+    "City":"Belfast",
+    "PlaceInfo":"Belfast. Relevant post <b><a href='/october-weekend-in-belfast/'>October weekend in Belfast</a></b>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5116,55.2408 ]
+    },
+    "properties": {
+    "City":"Giants Causeway",
+    "PlaceInfo":"Giant's Causeway. Relevant post <b><a href='/october-weekend-in-belfast/'>October weekend in Belfast</a></b>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1278,51.5074 ]
+    },
+    "properties": {
+    "City":"London",
+    "PlaceInfo":"London (coming soon)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1883,55.9533 ]
+    },
+    "properties": {
+    "City":"Edinburgh",
+    "PlaceInfo":"Edinburgh (coming soon)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1218,52.2053 ]
+    },
+    "properties": {
+    "City":"Cambridge",
+    "PlaceInfo":"Cambridge. Relevant post <b><a href='/spending-a-day-in-cambridge-uk/'>Spending a day in Cambridge, UK</a></b>"
+    }
+  }
+]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 	
+          36.8219,
+          1.2921
+        ]
+      },
+      "properties": {
+        "City": "Nairobi",
+        "PlaceInfo": "Relevant post <b><a href='/10-days-in-kenya/'>10 Days in Kenya</a></b>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 	
+          35.12926,
+          -1.474939
+        ]
+      },
+      "properties": {
+        "City": "Maasai Mara National Reserve",
+        "PlaceInfo": "Relevant post <b><a href='/10-days-in-kenya/'>10 Days in Kenya</a></b>"
+      }
+    }        
+  ]
+}
+
+	
+	

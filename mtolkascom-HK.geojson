@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 	
+          114.1095,
+          22.3964
+        ]
+      },
+      "properties": {
+        "City": "Hong Kong",
+        "PlaceInfo": "Hong Kong <b><a href='/hongkong/'>Hong Kong in Photos</a></b>"
+      }
+    }
+  ]
+}

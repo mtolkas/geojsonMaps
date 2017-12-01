@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 2.1734,41.3851 ]
+   },
+   "properties": {
+   "City":"Barcelona",
+   "PlaceInfo":"Barcelona (coming soon)"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -2.3727,42.5154 ]
+   },
+   "properties": {
+   "City":"Viana",
+   "PlaceInfo":"Viana. Relevant post <b><a href='/20-thousand-meters-of-camino/'>20 thousand meters of Camino</a></b>"
+   }
+ }
+]
+}

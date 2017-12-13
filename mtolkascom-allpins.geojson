@@ -54,7 +54,7 @@
       },
       "properties": {
         "City": "Athens",
-        "PlaceInfo": "Athens, <b><a href='/greece/'>Greece</a></b> (coming soon)"
+        "PlaceInfo": "Athens, <b><a href='/greece/'>Greece</a></b>"
       }
     },
     {
@@ -96,7 +96,7 @@
       },
       "properties": {
         "City": "Berlin",
-        "PlaceInfo": "Berlin, <b><a href='/germany/'>Germany</a></b> (coming soon)"
+        "PlaceInfo": "Berlin, Germany (coming soon)"
       }
     },
     {
@@ -138,7 +138,7 @@
       },
       "properties": {
         "City": "Beaune",
-        "PlaceInfo": "Beaune, France (coming soon)"
+        "PlaceInfo": "Beaune, <b><a href='/france/'>France</a></b>"
       }
     },
     {
@@ -152,7 +152,7 @@
       },
       "properties": {
         "City": "Boston",
-        "PlaceInfo": "Boston, <b><a href='/usa/'>USA</a></b> (coming soon)"
+        "PlaceInfo": "Boston, <b><a href='/usa/'>USA</a></b>"
       }
     },
     {
@@ -166,7 +166,7 @@
       },
       "properties": {
         "City": "White Mountains (Deer Park)",
-        "PlaceInfo": "White Mountains (Deer Park), <b><a href='/usa/'>USA</a></b> (coming soon)"
+        "PlaceInfo": "White Mountains (Deer Park), <b><a href='/usa/'>USA</a></b>"
       }
     },
     {
@@ -278,7 +278,7 @@
       },
       "properties": {
         "City": "Copenhagen",
-        "PlaceInfo": "Copenhagen, <b><a href='/cuba/'>Denmark</a></b>"
+        "PlaceInfo": "Copenhagen, <b><a href='/denmark/'>Denmark</a></b>"
       }
     },
     {
@@ -292,7 +292,7 @@
       },
       "properties": {
         "City": "Dijon",
-        "PlaceInfo": "Dijon, France (coming soon)"
+        "PlaceInfo": "Dijon, <b><a href='/france/'>France</a></b>"
       }
     },
     {
@@ -404,7 +404,7 @@
       },
       "properties": {
         "City": "Havana",
-        "PlaceInfo": "Havana, <b><a href='/cuba/'>Cuba</a></b>"
+        "PlaceInfo": "Havana. See photos and stories <b><a href='/cuba/'>here</a></b>"
       }
     },
     {
@@ -530,7 +530,7 @@
       },
       "properties": {
         "City": "Lisbon",
-        "PlaceInfo": "Lisbon, <b><a href='/portugal/'>Portugal</a></b>"
+        "PlaceInfo": "Lisbon, Portugal. See photos <b><a href='/portugal/'>here</a></b>"
       }
     },
     {
@@ -558,7 +558,7 @@
       },
       "properties": {
         "City": "Los Angeles",
-        "PlaceInfo": "Los Angeles, <b><a href='/usa/'>USA</a></b> (coming soon)"
+        "PlaceInfo": "Los Angeles, <b><a href='/usa/'>USA</a></b>"
       }
     },
     {
@@ -572,7 +572,7 @@
       },
       "properties": {
         "City": "Luxembourg",
-        "PlaceInfo": "Luxembourg, Luxembour (coming soon)"
+        "PlaceInfo": "Luxembourg, Luxembourg (coming soon)"
       }
     },
     {
@@ -600,7 +600,7 @@
       },
       "properties": {
         "City": "Maasai Mara",
-        "PlaceInfo": "Maasai Mara, Kenya (coming soon)"
+        "PlaceInfo": "Maasai Mara, <b><a href='/kenya/'>Kenya</a></b>"
       }
     },
     {
@@ -628,7 +628,7 @@
       },
       "properties": {
         "City": "Nairobi",
-        "PlaceInfo": "Nairobi, Kenya (coming soon)"
+        "PlaceInfo": "Nairobi, <b><a href='/kenya/'>Kenya</a></b>"
       }
     },
     {
@@ -642,7 +642,7 @@
       },
       "properties": {
         "City": "Naoussa",
-        "PlaceInfo": "Read my <b><a href='/naoussa-travel-guide/'>Naoussa travel guide</a>.</b><hr>See more in <b><a href='/greece/'>Greece</a>"
+        "PlaceInfo": "See more about <b><a href='/naoussa/'>Naoussa</a></b>"
       }
     },
     {
@@ -656,7 +656,7 @@
       },
       "properties": {
         "City": "New York",
-        "PlaceInfo": "New York, <b><a href='/usa/'>USA</a></b> (coming soon)"
+        "PlaceInfo": "New York, <b><a href='/usa/'>USA</a></b>"
       }
     },
     {
@@ -726,7 +726,7 @@
       },
       "properties": {
         "City": "Portland",
-        "PlaceInfo": "Portland, <b><a href='/usa/'>USA</a></b> (coming soon)"
+        "PlaceInfo": "Portland, <b><a href='/usa/'>USA</a></b>"
       }
     },
     {
@@ -740,7 +740,7 @@
       },
       "properties": {
         "City": "Porto",
-        "PlaceInfo": "Porto, <b><a href='/portugal/'>Portugal</a></b>"
+        "PlaceInfo": "Porto, Portugal. See photos <b><a href='/portugal/'>here</a></b>"
       }
     },
     {
@@ -796,7 +796,7 @@
       },
       "properties": {
         "City": "San Francisco",
-        "PlaceInfo": "San Francisco, <b><a href='/usa/'>USA</a></b> (coming soon)"
+        "PlaceInfo": "San Francisco, <b><a href='/usa/'>USA</a></b>"
       }
     },
     {
@@ -894,7 +894,7 @@
       },
       "properties": {
         "City": "Seattle",
-        "PlaceInfo": "Seattle, <b><a href='/usa/'>USA</a></b> (coming soon)"
+        "PlaceInfo": "Seattle, <b><a href='/usa/'>USA</a></b>"
       }
     },
     {
@@ -1006,7 +1006,7 @@
       },
       "properties": {
         "City": "Thessaloniki",
-        "PlaceInfo": "Thessaloniki, Greece (coming soon)"
+        "PlaceInfo": "Thessaloniki, <b><a href='/greece/'>Greece</a></b>"
       }
     },
     {
@@ -1020,7 +1020,7 @@
       },
       "properties": {
         "City": "Trinidad",
-        "PlaceInfo": "Trinidad, <b><a href='/cuba/'>Cuba</a></b>"
+        "PlaceInfo": "Trinidad. See photos and stories <b><a href='/cuba/'>here</a></b>"
       }
     },
     {
@@ -1048,7 +1048,7 @@
       },
       "properties": {
         "City": "Vancouver",
-        "PlaceInfo": "Vancouver, <b><a href='/canada/'>Canada</a></b> (coming soon)"
+        "PlaceInfo": "Vancouver, <b><a href='/canada/'>Canada</a></b>"
       }
     },
     {
@@ -1104,7 +1104,7 @@
       },
       "properties": {
         "City": "Viñales",
-        "PlaceInfo": "Viñales, <b><a href='/cuba/'>Cuba</a></b>"
+        "PlaceInfo": "Viñales. See photos and stories <b><a href='/cuba/'>here</a></b>"
       }
     },
     {

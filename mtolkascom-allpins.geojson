@@ -1176,6 +1176,39 @@
         "City": "Zurich",
         "PlaceInfo": "Zurich, Switzerland (coming soon)"
       }
+    },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654,25.033 ]
+    },
+    "properties": {
+    "City":"Taipei",
+    "PlaceInfo":"Taipei, <b><a href='/taiwan/'>Taiwan</a></b>"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6112,23.9911 ]
+    },
+    "properties": {
+    "City":"Hualien",
+    "PlaceInfo":"Hualien, <b><a href='/taiwan/'>Taiwan</a></b>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6216,24.1587 ]
+    },
+    "properties": {
+    "City":"Taroko Gorge",
+    "PlaceInfo":"Taroko Gorge, <b><a href='/taiwan/'>Taiwan</a></b>"
+    }
+  }    
   ]
 }
